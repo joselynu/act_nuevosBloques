@@ -1,0 +1,47 @@
+.container {
+    width: 950px;
+    background-color: #eaeaea;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+.top-nav {
+    height: 140px;
+    background-color: #ffcc00;
+    margin: 10px;
+}
+
+.side-nav {
+    height: 340px;
+    width: 215px;
+    margin: 10px;
+    margin-top: 7px;
+    float: right;
+    background-color: #66ccff;
+    
+}
+
+.main {
+    height: 350px;
+    width: 700px;
+    background-color:deeppink;
+    display: inline-block;
+    margin: 5px;
+}
+
+.sub-content {
+    height: 70px;
+    width: 100px;
+    padding: 55px;
+    margin: 10px;
+    background-color:mediumblue;
+    background-repeat: repeat-x;
+    display: inline-block;
+}
+
+#advertisement {
+    height: 110px;
+    width: 650px;
+    background-color: #33cc33;
+    margin: 10px;
+}
